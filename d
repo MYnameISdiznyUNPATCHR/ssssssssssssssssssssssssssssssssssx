@@ -176,7 +176,7 @@ local TouchedGKBallBox
 local Player = game.Players.LocalPlayer
 local RootPart = Player.Character.HumanoidRootPart
 
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/MYnameISdiznyUNPATCHR/ddsq/main/d)()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/MYnameISdiznyUNPATCHR/ddsq/main/d')()
 local Window = library:CreateWindow("TPS: Street Soccer", "Version: 1.48", 10044538000)
 
 local Tab = Window:CreateTab("Scripts")
